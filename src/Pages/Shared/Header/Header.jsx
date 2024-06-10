@@ -19,7 +19,7 @@ const Header = () => {
   return (
     <div className="grid grid-cols-2">
       <div>
-          <h1>Roam Routes</h1>
+          <h1 className="font-serif font-semibold text-2xl pt-3 ps-5">RoamRoutes</h1>
       </div>
       <div className="navbar bg-base-100">
       {/* <div className="navbar-start">
